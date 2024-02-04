@@ -1,2 +1,2 @@
-# 998381193V
-mini project 1
+# Deep Learning Mini Project 01
+998381193V
